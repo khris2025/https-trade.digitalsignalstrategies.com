@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>GEORGE MGT COMPANY INV. </title>
+    <title>Digital Signal Strategies </title>
 
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
@@ -136,7 +136,7 @@
                     aria-label="Toggle menu">
                     <i class="bi bi-list"></i>
                 </span>
-                <a class="navbar-brand mb-0" href="#" style="font-size: 1rem;">GEORGE MGT COMPANY INV. </a>
+                <a class="navbar-brand mb-0" href="#" style="font-size: 1rem;">Digital Signal Strategies </a>
 
                 <ul class="navbar-nav desktop-nav mb-0">
                     <!-- Your desktop nav dropdowns -->

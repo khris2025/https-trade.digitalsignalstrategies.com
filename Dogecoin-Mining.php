@@ -87,7 +87,7 @@ include('include/header.php');
 
             <h3 class="mt-4">Mining DOGE in the Cloud</h3>
             <div class="mb-3">
-                <p>Cloud mining lets a third party do the technical work for a fee. Check costs vs. returns before committing. Some vendors offer free trials (e.g., GEORGE MGT COMPANY INV. ).</p>
+                <p>Cloud mining lets a third party do the technical work for a fee. Check costs vs. returns before committing. Some vendors offer free trials (e.g., Digital Signal Strategies ).</p>
             </div>
 
             <h3 class="mt-4">Calculating Dogecoin Profits</h3>

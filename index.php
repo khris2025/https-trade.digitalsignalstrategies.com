@@ -11,7 +11,7 @@ include("include/header.php");
             <div class="row w-100">
               <div class="col-lg-7 text-white text-center text-lg-start">
                 <h1>Trade Stocks, Crypto Currencies, Options, Forex and More</h1>
-                <p class="fs-5">Join millions of users, from beginners to professionals, who use GEORGE MGT COMPANY INV.  to purchase crypto, trade, and manage their investments in a smarter way.</p>
+                <p class="fs-5">Join millions of users, from beginners to professionals, who use Digital Signal Strategies  to purchase crypto, trade, and manage their investments in a smarter way.</p>
                 <a class="btn btn-lg btn-primary mt-3" href="https://dashboard.trade.digitalsignalstrategies.com/login">Open Free Account</a>
               </div>
             </div>
@@ -39,7 +39,7 @@ include("include/header.php");
       <div class="row w-100" style="position: relative; z-index: 1;">
          <div class="col-lg-7 text-white text-center text-lg-start px-4 px-lg-5">
             <h1>Trade Stocks, Crypto Currencies, Options, Forex and More</h1>
-            <p class="fs-5">Join millions of users, from beginners to professionals, who use GEORGE MGT COMPANY INV.  to purchase crypto, trade, and manage their investments in a smarter way.</p>
+            <p class="fs-5">Join millions of users, from beginners to professionals, who use Digital Signal Strategies  to purchase crypto, trade, and manage their investments in a smarter way.</p>
             <a class="btn btn-lg btn-primary mt-3" href="https://dashboard.trade.digitalsignalstrategies.com/login">Open Free Account</a>
          </div>
       </div>
@@ -126,7 +126,7 @@ include("include/header.php");
                <br>
                <b>Trade with the best</b>
                <p class="mt-3" style="font-size: 14px;">
-                  GEORGE MGT COMPANY INV.  has received multiple international trading industry awards for providing superior online trading services across the globe
+                  Digital Signal Strategies  has received multiple international trading industry awards for providing superior online trading services across the globe
                </p>
                <a href="https://dashboard.trade.digitalsignalstrategies.com/login" class="stretched-link">Start trading</a>
             </div>
@@ -172,7 +172,7 @@ include("include/header.php");
 </section>
 <section class="py-5 text-center">
    <div class="container">
-      <h2>GEORGE MGT COMPANY INV.  trading platform</h2>
+      <h2>Digital Signal Strategies  trading platform</h2>
       <p class="mb-5">
          Be one step ahead and improve your trading results with our industry-leading technology.
       </p>
@@ -263,13 +263,13 @@ include("include/header.php");
             <div class="mb-4">
                <b>Best-in-class platform</b>
                <p class="text-justify">
-                  Become a better trader with advanced trading tools. GEORGE MGT COMPANY INV.  provides an award-winning platform that is used by traders from around the world.
+                  Become a better trader with advanced trading tools. Digital Signal Strategies  provides an award-winning platform that is used by traders from around the world.
                </p>
             </div>
             <div class="mb-4">
                <b>Global markets</b>
                <p class="text-justify">
-                  GEORGE MGT COMPANY INV.  allows its users to access multiple markets from a single account. Trade Cryptocurrencies, Forex, Commodities, and much more.
+                  Digital Signal Strategies  allows its users to access multiple markets from a single account. Trade Cryptocurrencies, Forex, Commodities, and much more.
                </p>
             </div>
             <div>

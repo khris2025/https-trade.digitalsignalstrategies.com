@@ -37,7 +37,7 @@
 
         <!-- Copyright -->
         <div class="text-white-50">
-            &copy; 2010 - 2025 GEORGE MGT COMPANY INV. . All rights reserved.
+            &copy; 2010 - 2025 Digital Signal Strategies . All rights reserved.
         </div>
     </div>
 </footer>

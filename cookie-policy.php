@@ -30,7 +30,7 @@ include('include/header.php');
             <h1 class="text-center mb-4">Cookie Policy</h1>
 
             <div class="mb-3">
-                GEORGE MGT COMPANY INV.  uses cookies to:
+                Digital Signal Strategies  uses cookies to:
                 <ul>
                     <li>Optimize your trading experience, including remembering your preferences, location, preferred language, browser and other details;</li>
                     <li>Authenticate your identity for security purposes;</li>
@@ -49,9 +49,9 @@ include('include/header.php');
 
             <h5 class="mt-4 mb-2">Managing Cookies</h5>
             <div class="mb-3">
-                At GEORGE MGT COMPANY INV. , we respect your right to privacy and are therefore happy to provide you with tools to manage the cookies you receive from our web services.
+                At Digital Signal Strategies , we respect your right to privacy and are therefore happy to provide you with tools to manage the cookies you receive from our web services.
                 <br><br>
-                Some cookies are essential to the performance of our platform (you cannot opt out from these cookies if you wish to use our platform). Below you will find a list of some of the third-party cookies used by GEORGE MGT COMPANY INV. . For those users who would prefer not to receive non-essential cookies, we have provided an “opt out” option for you to select.
+                Some cookies are essential to the performance of our platform (you cannot opt out from these cookies if you wish to use our platform). Below you will find a list of some of the third-party cookies used by Digital Signal Strategies . For those users who would prefer not to receive non-essential cookies, we have provided an “opt out” option for you to select.
             </div>
 
             <div>

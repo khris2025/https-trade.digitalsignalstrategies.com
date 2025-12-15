@@ -30,7 +30,7 @@ include('include/header.php');
             <h1 class="text-center mb-4">Privacy Policy</h1>
 
             <p>
-                GEORGE MGT COMPANY INV.  Limited (in incorporation) (“us“, “we” or “Company“) respects your privacy and is committed to protecting the personal information of users (“you” or “User”) who access or use our mobile application, website, or any related online services (collectively, the “Services”). This Privacy Policy outlines our practices regarding data collection, usage, and sharing.
+                Digital Signal Strategies  Limited (in incorporation) (“us“, “we” or “Company“) respects your privacy and is committed to protecting the personal information of users (“you” or “User”) who access or use our mobile application, website, or any related online services (collectively, the “Services”). This Privacy Policy outlines our practices regarding data collection, usage, and sharing.
             </p>
             <p>
                 By using our Services, you agree to this Privacy Policy, which is part of our Terms of Service.

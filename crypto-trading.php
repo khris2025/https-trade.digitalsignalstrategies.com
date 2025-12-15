@@ -31,7 +31,7 @@ include('include/header.php');
             <br>
             <div class="container">
                 <p>
-                    GEORGE MGT COMPANY INV.  is excited to announce the launch of our new cryptocurrency trading platform.
+                    Digital Signal Strategies  is excited to announce the launch of our new cryptocurrency trading platform.
                     Now you can start trading Bitcoin, Ethereum and many more cryptocurrencies quickly, easily and
                     safely from wherever you are — in just seconds. You get great margin trading leverage and short sell
                     options with fast deposits and withdrawals. Our support team is available 24/7/365 to help get you

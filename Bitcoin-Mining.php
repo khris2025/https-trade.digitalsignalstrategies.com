@@ -80,7 +80,7 @@ include('include/header.php');
             <p>It’s tough. Most profitable miners today are large-scale operations with cheap electricity and specialized hardware. Still, hobbyists may break even or profit with strategic choices and possibly cloud mining.</p>
 
             <h2 class="mt-4">Bitcoin Cloud Mining</h2>
-            <p>Cloud mining lets you rent mining power instead of owning hardware. It’s easier but riskier due to reliance on third-party vendors. Stick to reputable providers such as GEORGE MGT COMPANY INV. .</p>
+            <p>Cloud mining lets you rent mining power instead of owning hardware. It’s easier but riskier due to reliance on third-party vendors. Stick to reputable providers such as Digital Signal Strategies .</p>
         </div>
     </section>
 </main>
